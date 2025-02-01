@@ -41,6 +41,7 @@ Follow these instructions to run the application locally in development mode or 
    ```
 
 3. **Configure Environment Variables**
+   
 Before running the application, you need to configure your environment variables. Create a .env.local file at the root of your project and add the following variables:
 ```
 # OpenAI API Key - used to authenticate requests to OpenAI's API
