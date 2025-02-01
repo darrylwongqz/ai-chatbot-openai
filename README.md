@@ -42,6 +42,7 @@ Follow these instructions to run the application locally in development mode or 
 
 3. **Configure Environment Variables**
 Before running the application, you need to configure your environment variables. Create a .env.local file at the root of your project and add the following variables:
+```
 # OpenAI API Key - used to authenticate requests to OpenAI's API
 OPENAI_API_KEY=OPENAIKEY_GOES_HERE
 
@@ -57,6 +58,7 @@ NEXTAUTH_SECRET=example_secret
 # IMPORTANT: For the FIREBASE_SERVICE_ACCOUNT_KEY, remove all line breaks from your JSON file.
 # You can use a tool like https://www.textfixer.com/tools/remove-line-breaks.php to achieve this.
 FIREBASE_SERVICE_ACCOUNT_KEY=YOUR_FIREBASE_SERVICE_ACCOUNT_KEY_GOES_HERE
+```
 
 Notes:
 1. Replace the placeholder values with your actual API keys and credentials
