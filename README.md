@@ -98,7 +98,7 @@ This will launch the optimized production build of the application, configured f
 
 ## Additional Information
 
-For more details on how the application is architected and deployed, please refer to the [Architecture Documentation](#).
+For more details on how the application is architected and deployed, please refer to the [Architecture Documentation](https://docs.google.com/document/d/1ggqIbTJHwe9LioAQ_Mhkk4VkYQ-r5KLe0MxhoVuiNMY/edit?usp=sharing).
 
 ---
 
