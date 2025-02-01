@@ -102,4 +102,4 @@ For more details on how the application is architected and deployed, please refe
 
 ---
 
-Happy coding!
+Happy prompting!
