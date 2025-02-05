@@ -5,7 +5,7 @@ A production-ready AI Chatbot built with Next.js 15 and Firebase Firestore. This
 ## Hosted Version
 
 A hosted version of the production build is available at:  
-[https://ai-chatbot-eqibipeui-darrylwongqzs-projects.vercel.app/](https://ai-chatbot-eqibipeui-darrylwongqzs-projects.vercel.app/)
+[https://ai-chatbot-kohl-zeta.vercel.app/](https://ai-chatbot-kohl-zeta.vercel.app/)
 
 NOTE: You will need to sign up for a vercel account first before you are able to access the app.
 
